@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<cidade>
+    <nome>Rio de Janeiro</nome>
+    <uf>RJ</uf>
+    <atualizacao>03-07-2016</atualizacao>
+    <manha>
+        <dia>03-07-2016 12h z</dia>
+        <agitacao>Fraco</agitacao>
+        <altura>1.4</altura>
+        <direcao>E</direcao>
+        <vento>7.6</vento>
+        <vento_dir>NE</vento_dir>
+    </manha>
+    <tarde>
+        <dia>03-07-2016 18h z</dia>
+        <agitacao>Fraco</agitacao>
+        <altura>1.4</altura>
+        <direcao>E</direcao>
+        <vento>7.9</vento>
+        <vento_dir>ENE</vento_dir>
+    </tarde>
+    <noite>
+        <dia>03-07-2016 21h z</dia>
+        <agitacao>Fraco</agitacao>
+        <altura>1.4</altura>
+        <direcao>E</direcao>
+        <vento>8.4</vento>
+        <vento_dir>ENE</vento_dir>
+    </noite>
+</cidade>

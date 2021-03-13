@@ -1,0 +1,7 @@
+.borda {
+    border: 1px solid red;
+    margin-top: 10px;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+}

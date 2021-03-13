@@ -1,0 +1,3 @@
+ERRO: Division by zero
+ARQUIVO: C:\Users\moura\OneDrive\Documentos\PHP\PHP\PHP7\throwable_errors\index.php
+Erro na linha 4
